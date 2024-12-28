@@ -1,0 +1,8 @@
+x=str(input("Enter Your Name: "))
+print("Length",len(x))
+print("Upper",x.upper())
+print("Lower",x.lower())
+print("Replace",x.replace("Kamal","Sekhar"))
+print("split",x.split())
+print("Strip",x.strip())
+print("Name is ",x)
